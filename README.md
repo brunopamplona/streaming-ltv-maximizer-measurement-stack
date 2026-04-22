@@ -5,10 +5,14 @@ The Pareto Growth Engine: High-Leverage Marketing Science for Streaming, The 20%
 1. Cohort Analysis + LTV
 Cohorts: L30 / L60 / L90
 Churn:
-Family Plan (Live + OTT bundle): ~9%
-VOD Movies (Example: Telecine)
-VOD Series + Movies (Example: Universal+)
-Sports Soccer (Example: Premiere): ~11–12%
+## Estimated Monthly Churn Rates
+
+| Plan Name                  | Type | Sample Plan                                                  | Estimated Churn Rate |
+|----------------------------|------|--------------------------------------------------------------|----------------------|
+| Family Plan                | LIVE | +120 Live channels + OTT (Netflix, globoplay, Apple TV, ...) | ~9%                  |
+| Movies Fans Plan           | VOD  | Telecine                                                     | 11%                  |
+| Series and Movies Fans     | VOD  | Universal+                                                   | 11%                  |
+| Sports Soccer Fans         | LIVE | Premiere                                                     | 12%                  |
 
 Output:
 
